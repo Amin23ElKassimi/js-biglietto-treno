@@ -1,0 +1,21 @@
+
+main{
+    height: 100vh;
+    background-color:#1f1f1f;
+    color: white;
+    font-weight: bold;
+}
+
+
+.rem2{
+    font-size: 2rem;
+}
+
+#km{
+    color: yellow;
+}
+
+#age{
+    color: rgb(0, 225, 255);
+}
+
